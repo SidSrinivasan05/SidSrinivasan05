@@ -64,6 +64,6 @@
 
 ###
 
-<p align="left">🔗 Connect with me:<br><br>LinkedIn: www.linkedin.com/in/sgadagi<br><br>Email: ssrinivasan355@gatech.edu</p>
+<p align="left">🔗 Connect with me:<br><br>LinkedIn: www.linkedin.com/in/siddharth-srinivasan05<br><br>Email: ssrinivasan355@gatech.edu</p>
 
 ###
