@@ -15,8 +15,7 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?
-    &hide_title=false&layout=compact&card_width=320&username=SidSrinivasan05&layout=compact&theme=dracula"
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SidSrinivasan05&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" 
   height="150" alt="languages graph"  />
 </div>
 
