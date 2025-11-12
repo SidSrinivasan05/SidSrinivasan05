@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I'm an Industrial Engineer and an aspiring software developer/data analyst. </p>
+<p align="left">I'm an Industrial Engineer and an aspiring data analyst/software developer. </p>
 
 ###
 
